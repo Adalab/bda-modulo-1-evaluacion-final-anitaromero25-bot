@@ -1,5 +1,5 @@
-# Proyecto: Tienda online-Inventario
-Este proyecto en Python permite gestionar un inventario de productos.
+# Proyecto: Tienda online-Inventario y Compras
+Este proyecto en Python permite gestionar el inventario de una tienda y realizar compras.
 Estructura utilizada:
 
 *inventario*: una lista de diccionarios para productos con nombre, precio y cantidad.
@@ -17,6 +17,8 @@ Estructura utilizada:
 *eliminar_producto*: elimina un producto del inventario.
 
 *calcular_valor_inventario*:calcula el valor total del inventario.
+
+*realizar_compras*: realiza compras interactuando con el cliente.
 
 ## Cómo arrancar el proyecto.
 Clona el repositorio de Git y asegúrate de tener instalado Python.
